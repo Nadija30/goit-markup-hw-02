@@ -50,9 +50,13 @@ color: #434455;
 }
 .contact-email {
 color: #434455;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .contact-phone {
 color: #434455;
+line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .contact-email:hover, .contact-email:focus {
     color: #404bbf;
