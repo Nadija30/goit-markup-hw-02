@@ -48,19 +48,12 @@ Vertical align: Top;
 Letter spacing: 2%;
 color: #434455;
 }
-.contact-email {
+.contact-info {
 color: #434455;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.contact-phone {
-color: #434455;
-line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.contact-email:hover, .contact-email:focus {
+.contact-info:hover, .contact-info:focus {
     color: #404bbf;
 }
-.contact-phone:hover, .contact-phone:focus {
-    color: #404bbf;
-}
+
