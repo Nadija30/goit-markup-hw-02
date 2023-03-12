@@ -107,10 +107,65 @@ color: #2e2f42;
 }
 .description-solutions {
 font-family: 'Roboto', sans-serif;
-font-size:16px;
-Line height: 24px;
+font-size: 16px;
+line-height: 24px;
 line-height: 1.5;
 Align: Left;
 letter-spacing: 0.02em;
 color: #434455;
 }
+.work-options {
+font-family: 'Roboto', sans-serif;
+font-size: 36px;
+line-height: 40px;
+line-height: 1,1;
+Align: Center;
+text-transform: capitalize;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+
+.team {
+font-family: 'Roboto', sans-serif;
+font-size: 36px;
+line-height: 40px;
+line-height: 1.1;
+Align: Center;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.name {
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+line-height: 1.2;
+Align: Center
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.profession {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+line-height: 24px;
+line-height: 1.5;
+Align: Center;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.page-footer {
+background-color: #2e2f42;
+}
+
+.goal {
+font-family: 'Roboto', sans-serif;
+font-size: 16px; 
+line-height: 24px;
+line-height: 1.5;
+Align: Left;
+letter-spacing: 0.02em;
+}
+
+
