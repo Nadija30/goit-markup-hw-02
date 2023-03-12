@@ -118,8 +118,8 @@ color: #434455;
 font-family: 'Roboto', sans-serif;
 font-size: 36px;
 line-height: 40px;
-line-height: 1,1;
-Align: Center;
+line-height: 1,11;
+text-align: center;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #2e2f42;
@@ -130,8 +130,9 @@ color: #2e2f42;
 font-family: 'Roboto', sans-serif;
 font-size: 36px;
 line-height: 40px;
-line-height: 1.1;
-Align: Center;
+line-height: 1.11;
+text-align: center;
+text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
@@ -152,7 +153,7 @@ line-height: 24px;
 line-height: 1.5;
 Align: Center;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #434455;
 }
 
 .page-footer {
@@ -168,5 +169,8 @@ Align: Left;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 }
+.logo-span-footer{
 
+    color: #f4f4fd;
+}
 
