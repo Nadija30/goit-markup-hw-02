@@ -33,6 +33,9 @@ color:#2e2f42;
 .menu-link:hover,.menu-link:focus {
 color: #404bbf;
 }
+.page-address {
+font-style:normal;
+}
 .contact-info {
 Font family: 'Roboto', sans-serif;
 color: #434455;
@@ -40,7 +43,6 @@ Font size: 16px;
 Line height: 24px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-font-style: normal;
 }
 .contact-info:hover, .contact-info:focus {
     color: #404bbf;
@@ -52,7 +54,7 @@ background-color:#2e2f42;
 Font family: 'Roboto', sans-serif;
 Font size: 56px;
 Line height: 60px;
-Line height: 1,07;
+Line height: 1.07;
 Letter spacing: 0.02em;
 text-align: center;
 color: #ffffff;
@@ -62,10 +64,11 @@ Font family: 'Roboto', sans-serif;
 font-weight: 500
 Font size: 16px;
 Line height: 24px;
-Line height: 1,5;
+Line height: 1.5;
 Vertical align: Center
 Letter spacing: 0.04em;
 cursor: pointer;
+color: #FFFFFF;
 }
 .modal-btn:hover,
 .modal-btn:focus {
