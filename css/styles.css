@@ -40,6 +40,7 @@ Font size: 16px;
 Line height: 24px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+font-style: normal;
 }
 .contact-info:hover, .contact-info:focus {
     color: #404bbf;
@@ -47,7 +48,7 @@ letter-spacing: 0.02em;
 .hero {
 background-color:#2e2f42;
 }
-.main title {
+.main-title {
 Font family: 'Roboto', sans-serif;
 Font size: 56px;
 Line height: 60px;
