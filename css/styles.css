@@ -174,3 +174,40 @@ color: #F4F4FD;
     color: #f4f4fd;
 }
 
+/*========== Portfolio======*/
+
+.filter-button {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+line-height: 1.5;
+Align: Center;
+letter-spacing: 0.04em;
+color: #4d5ae5;
+cursor: pointer;
+}
+ .filter-button:hover,.filter-button:focus {
+color: ;#FFFFFF;
+background-color: #404BBF;
+}
+.gallery-name {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+line-height: 1.2;
+Align: Left;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.text {
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+line-height: 24px;
+line-height: 1.5;
+Align: Center;
+letter-spacing: 0.04em;
+color:#434455;
+
+}
