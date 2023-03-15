@@ -35,10 +35,12 @@ color: #4d5ae5;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
+text-align: center;
 color: #ffffff;
 }
 
 .modal-btn {
+font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -50,7 +52,7 @@ background: #4D5AE5;
 
 .modal-btn:hover,
 .modal-btn:focus {
-background-color: #4D5AE5;
+background-color: #404BBF;
 color: #FFFFFF;
 }
 /* ========== /Hero =========*/
@@ -87,6 +89,7 @@ color: #404bbf;
 /* ========== /Header =========*/
 
 .name-decisions {
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -98,6 +101,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .work-options {
+font-weight: 500;
 font-size: 36px;
 line-height: 1.11;
 text-transform: capitalize;
@@ -105,15 +109,23 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+.our-team {
+background-color: #F4F4FD;
+}
 
 .team {
 font-size: 36px;
 line-height: 1.11;
 text-transform: capitalize;
 letter-spacing: 0.02em;
+text-align: center;
 color: #2e2f42;
 }
+.team-description {
+background-color: #FFFFFF;
+}
 .name {
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -143,10 +155,13 @@ color: #F4F4FD;
 /*========== Portfolio======*/
 
 .filters-button {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #4d5ae5;
+background-color: #F4F4FD;
 cursor: pointer;
 }
  .filters-button:hover, .filters-button:focus {
@@ -154,6 +169,7 @@ color: #FFFFFF;
 background-color: #404BBF;
 }
 .gallery-name {
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
