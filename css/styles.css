@@ -50,8 +50,7 @@ color: #FFFFFF;
 background: #4D5AE5;
 }
 
-.modal-btn:hover,
-.modal-btn:focus {
+.modal-btn:hover, .modal-btn:focus {
 background-color: #404BBF;
 color: #FFFFFF;
 }
@@ -106,6 +105,7 @@ font-size: 36px;
 line-height: 1.11;
 text-transform: capitalize;
 letter-spacing: 0.02em;
+text-align: center;
 color: #2e2f42;
 }
 
