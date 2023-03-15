@@ -1,6 +1,7 @@
 body {
-font-family: "Roboto", sans-serif;
+font-family: 'Roboto', sans-serif;
 color: #434455; 
+font-weight: 500;
 }
 .list {
     list-style: none;
@@ -11,13 +12,13 @@ color: #434455;
 
 /* ==========Components =========*/ 
 .logo {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 800;
-    text-transform: uppercase;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
+font-family: 'Raleway', sans-serif;
+font-weight: 800;
+text-transform: uppercase;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #4d5ae5;
 }
 
 .logo-span {
@@ -31,62 +32,52 @@ color: #434455;
 }
 
 .main-title {
-Font family: 'Roboto', sans-serif;
 font-size: 56px;
-line-height: 60px;
 line-height: 1.07;
 letter-spacing: 0.02em;
-text-align: center;
 color: #ffffff;
 }
 
 .modal-btn {
-font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 16px;
-line-height: 24px;
 line-height: 1.5;
-Vertical align: Center;
 letter-spacing: 0.04em;
 cursor: pointer;
 color: #FFFFFF;
+background: #4D5AE5;
 }
 
 .modal-btn:hover,
 .modal-btn:focus {
-    background-color: #4D5AE5;
-    color: #FFFFFF;
+background-color: #4D5AE5;
+color: #FFFFFF;
 }
 /* ========== /Hero =========*/
 
 
 /* ========== Header =========*/
 .menu-link {
-    font-weight: 500;
-    Font family: 'Roboto', sans-serif;
-    Font size: 16px;
-    Line height: 24px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .page-address {
-    font-style: normal;
+font-style: normal;
 }
 
 .contact-info {
-    Font family: 'Roboto', sans-serif;
-    color: #434455;
-    Font size: 16px;
-    Line height: 24px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+color:#434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 .contact-info:hover,
@@ -96,30 +87,20 @@ color: #FFFFFF;
 /* ========== /Header =========*/
 
 .name-decisions {
-font-family: 'Roboto', sans-serif;
-font-weight: 500;
 font-size: 20px;
-line-height: 24px;
 line-height: 1.2;
-Align: Left;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .description-solutions {
-font-family: 'Roboto', sans-serif;
 font-size: 16px;
-line-height: 24px;
 line-height: 1.5;
-Align: Left;
 letter-spacing: 0.02em;
 color: #434455;
 }
 .work-options {
-font-family: 'Roboto', sans-serif;
 font-size: 36px;
-line-height: 40px;
 line-height: 1.11;
-text-align: center;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #2e2f42;
@@ -127,31 +108,21 @@ color: #2e2f42;
 
 
 .team {
-font-family: 'Roboto', sans-serif;
 font-size: 36px;
-line-height: 40px;
 line-height: 1.11;
-text-align: center;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .name {
-font-family: 'Roboto', sans-serif;
-font-weight: 500;
 font-size: 20px;
-line-height: 24px;
 line-height: 1.2;
-Align: Center;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .profession {
-font-family: 'Roboto', sans-serif;
 font-size: 16px;
-line-height: 24px;
 line-height: 1.5;
-Align: Center;
 letter-spacing: 0.02em;
 color: #434455;
 }
@@ -161,11 +132,8 @@ background-color: #2e2f42;
 }
 
 .goal {
-font-family: 'Roboto', sans-serif;
 font-size: 16px; 
-line-height: 24px;
 line-height: 1.5;
-Align: Left;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 }
@@ -177,37 +145,27 @@ color: #F4F4FD;
 /*========== Portfolio======*/
 
 .filters-button {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
 font-size: 16px;
-line-height: 24px;
 line-height: 1.5;
-Align: Center;
 letter-spacing: 0.04em;
 color: #4d5ae5;
 cursor: pointer;
 }
- .filters-button:hover,.filters-button:focus {
+ .filters-button:hover, .filters-button:focus {
 color: #FFFFFF;
 background-color: #404BBF;
 }
 .gallery-name {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
 font-size: 20px;
-line-height: 24px;
 line-height: 1.2;
-Align: Left;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .text {
-font-family: "Roboto", sans-serif;
 font-size: 16px;
-line-height: 24px;
 line-height: 1.5;
-Align: Center;
 letter-spacing: 0.02em;
-color:#434455;
+color: #434455;
 
 }
+/*========== Portfolio======*/
