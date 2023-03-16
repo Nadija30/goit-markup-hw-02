@@ -1,14 +1,3 @@
-body {
-font-family: 'Roboto', sans-serif;
-color: #434455; 
-font-weight: 500;
-}
-.list {
-    list-style: none;
-}
-.link {
-    text-decoration: none;
-}
 :root {
 --color-iris: #4d5ae5;
 --title-color-navy-blue: #2E2F42;
@@ -16,8 +5,20 @@ font-weight: 500;
 --color-ocean: #404BBF;
 --text-color-slate: #434455;
 --color-cloud: #F4F4FD;
-
 }
+body {
+font-family: 'Roboto', sans-serif;
+color: #434455; 
+font-weight: 500;
+background-color: #FFFFFF;
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+
 
 /* ==========Components =========*/ 
 .logo {
@@ -91,7 +92,7 @@ background: var(--color-iris);
 }
 
 .modal-btn:hover, .modal-btn:focus {
-color: var(--color-ocean);
+color: #404BBF;
 }
 /* ========== /Hero =========*/
 
