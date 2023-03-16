@@ -91,7 +91,7 @@ background: var(--color-iris);
 }
 
 .modal-btn:hover, .modal-btn:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 /* ========== /Hero =========*/
 
